@@ -14,7 +14,7 @@ These assets are available under a CC0 license for you to use in any projects, a
 CC0 License - https://creativecommons.org/share-your-work/public-domain/cc0/
 
 ## Why CC0? Why Open Source?
-We are builders and rely on the ecosystem of engineers, builders and programmers that create open source software and tools. We want to encource others to build with this mindset, in public, and aligned with a vision of an "Open Metaverse". We can do this by sharing our source code, source assets, build on web, building together, and documenting our work in public using tools like Githib.  Thank you for supporting this research! Follow our github to track this project!
+We are builders and rely on the ecosystem of engineers, builders and programmers that create open source software and tools. We want to encourage others to build with this mindset, in public, and aligned with a vision of an "Open Metaverse". We can do this by sharing our source code, source assets, building on the web, building together, and documenting our work in public using tools like Githib.  Thank you for supporting this research! Follow our github to track this project!
 
 
 ## Where can I use my 3d files / avatars?
@@ -26,7 +26,7 @@ Here are some open sourced metaverse you can use your avatar in right now!
     - https://webaverse.com/
     - https://github.com/webaverse
 
-Here are some apps you can use with your modles right now!
+Here are some apps you can use with your models right now!
 
 ![](https://i.imgur.com/6Ai2a9C.png)
 
@@ -46,3 +46,5 @@ Send us pictures to @boomboxheads on twitter and share some screenshots in the d
 
 If you have any questions please feel free to join our discord! https://discord.gg/s4garHbXWh 
 Much love 
+
+
