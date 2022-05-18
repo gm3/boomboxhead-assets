@@ -2,9 +2,9 @@
 
 ![](https://i.imgur.com/6KWfEjw.png)
 
-- Boomboxhead Legends VRM Avatar
-- Boomboxhead (Just The Head)
-- Boomboxhead Original Body (FBX)
+
+- Boomboxhead - boomboxhead.fbx
+
 
 Here are the 3d source assets for the Boomboxheads Legends avatars!
 
