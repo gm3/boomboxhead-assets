@@ -1,5 +1,7 @@
 # Boomboxhead Legends 3d Assets
 
+###### tags: `boomboxheads`
+
 ![](https://i.imgur.com/6KWfEjw.png)
 
 
@@ -8,13 +10,15 @@
 
 Here are the 3d source assets for the Boomboxheads Legends avatars!
 
-## CC0 Creative Commons
-These assets are available under a CC0 license for you to use in any projects, any way you see fit. We cant wait to see what you make! 
+![](https://i.imgur.com/03pcsbe.png)
 
-CC0 License - https://creativecommons.org/share-your-work/public-domain/cc0/
+## CC BY Creative Commons
+These assets are available under a CC BY license: This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use.
 
-## Why CC0? Why Open Source?
-We are builders and rely on the ecosystem of engineers, builders and programmers that create open source software and tools. We want to encourage others to build with this mindset, in public, and aligned with a vision of an "Open Metaverse". We can do this by sharing our source code, source assets, building on the web, building together, and documenting our work in public using tools like Githib.  Thank you for supporting this research! Follow our github to track this project!
+## Why CC BY? Why Open Source?
+We are builders and rely on the ecosystem of engineers, builders and programmers that create open source software and tools. We want to encourage others to build with this mindset, in public, and aligned with a vision of an "Open Metaverse". We can do this by sharing our source code, source assets, building on the web, building together, and documenting our work in public using tools like Githib.  Thank you for supporting this research! 
+
+Please follow our github to track this project!
 
 
 ## Where can I use my 3d files / avatars?
